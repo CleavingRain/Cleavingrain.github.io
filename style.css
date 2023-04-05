@@ -1,0 +1,13 @@
+html {
+    background-image: url('background.webp');
+}
+
+.img {
+    margin-bottom: 20px;
+}
+#name, #password {
+    margin-bottom: 10px;
+}
+button {
+    margin-left: 150px;
+}
